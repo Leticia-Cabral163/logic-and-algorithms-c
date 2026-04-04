@@ -1,13 +1,14 @@
 
  # Programming Fundamentals in C
-This repository contains exercises developed in C language during my studies.  
-The focus is on logic building, problem-solving, and understanding core programming concepts.
+Bem-vindo ao meu repositório de estudos! Aqui registro minha trajetória desde os primeiros passos em **C++** até sistemas mais complexos.
+## 📂 Organização do Repositório
 
- 📚 Topics Covered
-- Variables and data types
-- Conditional statements (if/else)
-- Loops (for, while)
-- Functions
-- Arrays
-- Basic file handling
+* **[01-estruturas-de-dados](./01-estruturas-de-dados):** Filas, pilhas e listas encadeadas.
+* **[02-manipulacao-arquivos](./02-manipulacao-arquivos):** Sistemas de cadastro salvando dados em `.txt`.
+* **[03-seguranca-matematica](./03-seguranca-e-logica):** Exercícios de criptografia e lógica matemática.
 
+## 🛠️ Tecnologias Utilizadas
+* Linguagem C++
+* Manipulação de Arquivos (I/O)
+* Bibliotecas: `stdio.h`, `stdlib.h`, `time.h`
+  
